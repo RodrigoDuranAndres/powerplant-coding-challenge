@@ -15,5 +15,5 @@ All the power plants of the subset that is pass its load has to be in between pm
 
 ## Edge Cases
 
-In the case that the load is imposible to reach it send back an error.
+In the case that the load is imposible to reach or the input data is not as expected it will send back an error.
 In the case the load is imposible to reach but one that is higher is, this higher solution will be the one send back.
